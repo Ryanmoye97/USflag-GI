@@ -1,0 +1,44 @@
+
+
+
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  body{
+  margin: 0;
+  width: 100%
+  }
+  
+  table{
+    position: fixed;
+    width: 100%;
+    margin-top: -1px;
+  }
+  
+  .red{
+    width: 100%;
+    background-color: red;
+    height: 80px;
+  }
+  
+  .white{
+    width: 100%;
+    background-color: white;
+    height: 80px;
+  }
+  
+  td{
+    display:inline-block;
+    position: relative;
+  }
+  
+  img{
+    display: flex;
+    position: fixed;
+    left: 0p;
+    top: 0;  
+  }
+  
+  
